@@ -1,6 +1,6 @@
 # East-Africa-Financial-Inclusion
 #### Financial Inclusion in East Africa Dataset Analysis, 3/5/2020
-#### By **Patrick Mariwa Atak**
+#### By **M A P**
 ## Description
 This is a detailed description and analysis of the Financial Inclusion dataset. 
 The analysis is meant to answer a number of questions as well as be used to make recommendations. 
@@ -37,4 +37,4 @@ while providing insights into some of the key demographic factors that might dri
 * Scikit-Learn
 
 ### License
-**MIT (c) 2020 Patrick Atak**
+**MIT (c) 2020 M A P**
